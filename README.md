@@ -7,6 +7,10 @@
 
 [![XuRui314's GitHub stats](https://github-readme-stats.vercel.app/api?username=XuRui314)](https://github.com/anuraghazra/github-readme-stats)
 
+
+![[XuRui314's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XuRui314&layout=compact&hide_border=true&langs_count=10)
+
+
 <!---
 XuRui314/XuRui314 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
