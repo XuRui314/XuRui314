@@ -8,6 +8,12 @@
 [![XuRui314's GitHub stats](https://github-readme-stats.vercel.app/api?username=XuRui314)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+[![XuRui314's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=XuRui314&theme=xcode)](https://github.com/XuRui314)
+
+
+
+
 ![XuRui314's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XuRui314&layout=compact&hide_border=true&langs_count=10)
 
 
