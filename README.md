@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m @XuRui314
 - 👀 I’m interested in deeplearning,bitcoin
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning verilog
+- 💞️ I’m looking to collaborate on =。=
 - 📫 My qq number:1977289398
 
 
