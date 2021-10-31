@@ -8,6 +8,9 @@
 [![XuRui314's GitHub stats](https://github-readme-stats.vercel.app/api?username=XuRui314)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=XuRui314)](https://git.io/streak-stats)
+
+
 
 [![XuRui314's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=XuRui314&theme=xcode)](https://github.com/XuRui314)
 
