@@ -1,5 +1,4 @@
-![](https://i.loli.net/2021/10/19/hEVDO4xG7U38y6s.jpg)
-
+![](https://i.loli.net/2021/08/09/uwdpRgaZCYUE1z2.jpg)
 - 👋 Hi, I’m @XuRui314
 - 👀 I’m interested in deeplearning,bitcoin
 - 🌱 I’m currently learning verilog
