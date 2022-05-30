@@ -2,7 +2,7 @@
 ![](https://i.loli.net/2021/08/09/uwdpRgaZCYUE1z2.jpg)
 - 📫 My qq number:1977289398
 - wanna be a pseudo miter
-
+- My state: debugging or to debug
 
 [![XuRui314's GitHub stats](https://github-readme-stats.vercel.app/api?username=XuRui314)](https://github.com/anuraghazra/github-readme-stats)
 
