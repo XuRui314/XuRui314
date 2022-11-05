@@ -4,7 +4,12 @@
 - wanna be a pseudo miter
 - next stage：NJU AI
 
-<img src="https://profile-counter.glitch.me/{XuRui314}/count.svg" alt="XuRui314 :: Visitor's Count" />
+<h2 align="center">Github stats :bar_chart:</h2>
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+
+<p align="center"><img src="https://profile-counter.glitch.me/{XuRui314}/count.svg" alt="XuRui314 :: Visitor's Count" /></p>
 
 [![XuRui314's GitHub stats](https://github-readme-stats.vercel.app/api?username=XuRui314)](https://github.com/anuraghazra/github-readme-stats)
 
