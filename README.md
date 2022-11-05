@@ -11,7 +11,7 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{XuRui314}/count.svg" alt="XuRui314 :: Visitor's Count" /></p>
 
-[![XuRui314's GitHub stats](https://github-readme-stats.vercel.app/api?username=XuRui314)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">[![XuRui314's GitHub stats](https://github-readme-stats.vercel.app/api?username=XuRui314)](https://github.com/anuraghazra/github-readme-stats)</p>
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=XuRui314)](https://git.io/streak-stats)
