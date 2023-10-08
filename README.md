@@ -1,7 +1,7 @@
 # 🚀Welcome!
 ![](https://i.loli.net/2021/08/09/uwdpRgaZCYUE1z2.jpg)
 
-- HITSZ senior student, supervised By [ShaoRui](https://github.com/rshaojimmy), [DengXiang](https://github.com/Xiang-Deng-DL), NieLiqiang
+- HITSZ senior student, supervised By [ShaoRui](https://github.com/rshaojimmy), [DengXiang](https://github.com/Xiang-Deng-DL), [NieLiqiang](https://liqiangnie.github.io/index.html)
 - 📫 My qq number:1977289398
 - prepare for cvpr2024, wanna participate in seattle offline meetings :)
 
