@@ -1,5 +1,7 @@
 # 🚀Welcome!
 ![](https://i.loli.net/2021/08/09/uwdpRgaZCYUE1z2.jpg)
+
+- HITSZ senior student, supervised By ShaoRui, DengXiang, NieLiqiang
 - 📫 My qq number:1977289398
 - prepare for cvpr2024, wanna participate in seattle offline meetings :)
 
