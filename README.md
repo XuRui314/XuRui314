@@ -3,7 +3,6 @@
 
 - HITSZ senior student, supervised By [ShaoRui](https://github.com/rshaojimmy), [DengXiang](https://github.com/Xiang-Deng-DL), [NieLiqiang](https://liqiangnie.github.io/index.html)
 - 📫 My qq number:1977289398
-- prepare for cvpr2024, wanna participate in seattle offline meetings :)
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
