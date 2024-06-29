@@ -1,8 +1,7 @@
 # 🚀Welcome!
 ![](https://i.loli.net/2021/08/09/uwdpRgaZCYUE1z2.jpg)
 
-- HITSZ senior student, supervised By [ShaoRui](https://github.com/rshaojimmy), [DengXiang](https://github.com/Xiang-Deng-DL), [NieLiqiang](https://liqiangnie.github.io/index.html)
-- 📫 My qq number:1977289398
+- HITSZ senior student, supervised By [ShaoRui](https://github.com/rshaojimmy), [ChenGongwei](https://scholar.google.com/citations?user=Mpg0w3cAAAAJ&hl=zh-CN), [NieLiqiang](https://liqiangnie.github.io/index.html)
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
